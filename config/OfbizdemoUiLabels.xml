@@ -45,7 +45,20 @@ under the License.
         <value xml:lang="en">Ofbiz Demo Id</value>
     </property>
 
+    <property key="OfbizDemoType">
+        <value xml:lang="en">OFBiz Demo Type</value>
+    </property>
+
     <property key="OfbizDemoLastName">
         <value xml:lang="en">Last Name</value>
     </property>
+
+    <property key="OfbizDemoComment">
+        <value xml:lang="en">Comment</value>
+    </property>
+
+     <property key="CommonLogout">
+        <value xml:lang="en">Logout</value>
+    </property>
+
 </resource>
